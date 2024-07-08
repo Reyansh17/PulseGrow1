@@ -28,7 +28,7 @@ function Header() {
             </div>
             <div>
               <h2 className="fz-80">
-                6K<span className="fz-40">+</span>
+                50<span className="fz-40">+</span>
               </h2>
               <h6 className="sub-title">Satisfied Clients</h6>
             </div>
